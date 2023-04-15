@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 <img src="https://img.shields.io/static/v1?label=Link&message=Front-end Online Store&color=purple&style=for-the-badge&logo=github"/>
 
-### <b> <a href="https://tryunfo-project-eosin.vercel.app/](https://front-end-online-store-project-six.vercel.app/">Front-end Online Store</a> </b> <br>
+### <b> <a href="https://front-end-online-store-project-six.vercel.app/">Front-end Online Store</a> </b> <br>
 
 </div>
 
